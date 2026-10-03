@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.822.1](https://github.com/windmill-labs/windmill/compare/v1.822.0...v1.822.1) (2026-10-03)
+
+
+### Bug Fixes
+
+* bound the pg cached-connection reset probe so a vanished server fails fast ([#11505](https://github.com/windmill-labs/windmill/issues/11505)) ([d4a423f](https://github.com/windmill-labs/windmill/commit/d4a423f567e1fb5e21016a2be61d858ab61a4d4f))
+
 ## [1.822.0](https://github.com/windmill-labs/windmill/compare/v1.821.0...v1.822.0) (2026-10-03)
 
 
